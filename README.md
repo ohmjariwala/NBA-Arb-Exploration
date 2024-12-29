@@ -11,7 +11,7 @@ This project analyzes NBA game data to identify potential arbitrage opportunitie
 - Identifies 2 different thresholds based on a machine learning approach along with a threshold developed through identifying success rates for different odds
   
 # Machine Learning:
-- Implements Logistic Regression and Gradient Boosting to predict ITM outcomes.
+- Implements Logistic Regression to predict ITM outcomes.
 - Performs hyperparameter optimization to identify the best thresholds for ITM success.
 
 
